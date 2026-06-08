@@ -1,4 +1,4 @@
-# brazilian-football-powerbi
+# Brazilian Football Championship Dashboard
 This project is a Power BI dashboard analyzing matches from the Brazilian Football Championship.
 
 ## 📷 Dashboard Preview
